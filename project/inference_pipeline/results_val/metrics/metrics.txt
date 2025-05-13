@@ -1,0 +1,21 @@
+METRICS REPORT
+====================
+SUPERCLASS METRICS:
+  Precision:                0.9232
+  Recall:                   0.8680
+  F1 Score:                 0.8807
+  Accuracy (overall):       0.8578
+  Accuracy (seen):          0.7067
+  Accuracy (novel):         0.9812
+  Categorical Cross-Entropy: 4.3665
+--------------------
+SUBCLASS METRICS:
+  Precision:                0.8766
+  Recall:                   0.8372
+  F1 Score:                 0.8362
+  Accuracy (overall):       0.9515
+  Accuracy (seen):          0.8245
+  Accuracy (novel):         0.9950
+  Categorical Cross-Entropy: 2.3659
+--------------------
+
