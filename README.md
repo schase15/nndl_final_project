@@ -23,6 +23,9 @@ inference_pipeline/
 ├── cosine_subclass_predict.py       # Cosine similarity-based subclass prediction
 ├── llm_subclass_classifier.py       # LLM-based fallback for subclass prediction
 ├── combine_final_results.py         # Combines superclass and subclass predictions into final_results.csv
+├── Copy of cas-on-clab.ipynb        # Notebook for running CLIP server in Colab
+│
+├── val_run/                         # Directory containing custom validation image set including novel images from Imagenet64
 │
 ├── results/                         # Output directory for predictions and metrics
 │   ├── final_results.csv            # Contains superclass and subclass predictions per image

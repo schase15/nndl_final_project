@@ -1,0 +1,4 @@
+## Ran on the test data and uploaded to the class website
+
+super acc.       seen super acc.        novel super acc.       sub acc.     seen subclass acc.     novel subclass acc.
+   26.03%	          25.11%	             28.35%	            47.77%	         0.67%	                60.49%
